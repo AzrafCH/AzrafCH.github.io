@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I decided to take the leap!"
-date:       2018-11-08 02:25:58 +0000
+date:       2018-11-07 21:25:59 -0500
 permalink:  why_i_decided_to_take_the_leap
 ---
 
