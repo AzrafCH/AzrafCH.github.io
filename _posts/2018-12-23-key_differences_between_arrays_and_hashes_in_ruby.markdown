@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Key differences between Arrays and Hashes in Ruby"
-date:       2018-12-24 04:11:45 +0000
+date:       2018-12-23 23:11:45 -0500
 permalink:  key_differences_between_arrays_and_hashes_in_ruby
 ---
 
@@ -14,19 +14,19 @@ An array is a collection of data. Each element of an array is accessed using an 
 Now, if we want to access the elements of an array, we simply do
 
 **name[0]**
->=>will print 'Shahbaz'
+>=>will print 'Jordan'
 
 Hash is the collection of key-value pair.In Hash, the value is accessed using the key.
 
 **let's create a hash **
 
-> my_details = {'name' => 'shahbaz'}
+> my_details = {'name' => 'James'}
 
 and if, we want to access the value of hash, we simply do
 
 **my_details['name']**
 
-> =>will print 'shahbaz'
+> =>will print 'James'
 
 A more in-depth explanation about Arrays are ordered, integer-indexed collections of any object. Array indexing starts at 0, as in C or Java. A negative index is assumed to be relative to the end of the array—that is, an index of -1 indicates the last element of the array, -2 is the next to last element in the array, and so on. you can learn more about Arrays [here](http://ruby-doc.org/core-2.5.3/Array.html)
 
