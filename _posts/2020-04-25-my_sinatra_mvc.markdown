@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatra MVC****"
-date:       2020-04-25 07:24:42 +0000
+date:       2020-04-25 03:24:43 -0400
 permalink:  my_sinatra_mvc
 ---
 
